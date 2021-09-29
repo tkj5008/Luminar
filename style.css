@@ -1,0 +1,120 @@
+header{
+    width: 100%;
+    height: 40px;
+    background-color:#5e068a;      
+    font-size: 15px;
+     display: flex;
+    align-items: center;         
+}
+.tabs{
+    font-size: 20px;
+}
+
+.violet{
+/* font-size: 32px; */
+margin-bottom: 20px;
+padding-top: 22px;
+color: #5e068a;
+font-weight: 600;
+max-width: 540px;
+line-height: 1.2;
+text-transform: capitalize;
+
+}
+.lightviolet{
+    color: #5e068a99;
+    font-weight: 600;
+}
+.card-3{
+    height: 100%;
+}
+.span1{
+    /* font-size: 32px; */
+    /* margin-bottom: 20px;
+    padding-top: 22px; */
+    color: #5e068a;
+    font-weight: 600;
+    /* max-width: 540px; */
+    /* line-height: 1.2; */
+    /* text-transform: capitalize; */
+   margin-left: 550px;
+    
+    }
+    .span2{
+        color: #5e068a99;
+        font-weight: 600;
+        /* justify-content: flex-start; */
+    
+    }
+
+.button-default{
+    border: 2px solid #5e068a;
+    padding: 16px 27px;
+    font-weight: 600;
+    margin-top: 21px;
+    border-radius: 50px;
+    background-color: #5e068a;
+    color: white;
+}
+.button-default:hover{
+  background-color: white;
+  color: #5e068a;
+}
+.btn1{
+    border: 2px solid #5e068a;
+    padding: 16px 27px;
+    font-weight: 600;
+    margin-top: 50px;
+    text-decoration:none;
+    background-color: #5e068a;
+    color:white;
+}
+.btn1:hover{
+    color: black;
+}
+.card1{
+   color: #5e068a;
+}
+.card3{
+    color: #5e068a;
+    font-size: large;
+    font-weight: bold;
+ }
+ .button2{
+    border: 2px solid #5e068a;
+    padding: 16px 27px;
+    font-weight: 600;
+    margin-top: 35px;
+    border-radius: 50px;
+    background-color:white;
+    color: #5e068a;
+    display:flex;
+    margin-left: 550px;
+}
+.button2:hover{
+    background-color: #5e068a;
+  color: white;
+}
+.button3{
+    border: 2px solid #5e068a;
+    padding: 16px 27px;
+    font-weight: 600;
+    margin-top: 35px;
+    border-radius: 50px;
+    background-color:#5e068a;
+    color: white;
+    display:flex;
+    /* margin-left: 550px; */
+    margin-right: 75%;
+}
+.button3:hover{
+    background-color: #d095ee99;
+  color: white;
+  display: flex;
+  justify-content: flex-start;
+}
+.caro{
+    position: relative;
+    text-align: left;
+    margin-right: 25%;
+}
